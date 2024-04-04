@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaiTap_Hien-thi-cac-loai-hinh/BaiTap_Hien-thi-cac-loai-hinh.iml" filepath="$PROJECT_DIR$/BaiTap_Hien-thi-cac-loai-hinh/BaiTap_Hien-thi-cac-loai-hinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTap_Hien-thi-cac-so-nguyen-to-nho-hon-100/BaiTap_Hien-thi-cac-so-nguyen-to-nho-hon-100.iml" filepath="$PROJECT_DIR$/BaiTap_Hien-thi-cac-so-nguyen-to-nho-hon-100/BaiTap_Hien-thi-cac-so-nguyen-to-nho-hon-100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTap_Kiem-tra-20-so-nguyen-to-dau-tien/BaiTap_Kiem-tra-20-so-nguyen-to-dau-tien.iml" filepath="$PROJECT_DIR$/BaiTap_Kiem-tra-20-so-nguyen-to-dau-tien/BaiTap_Kiem-tra-20-so-nguyen-to-dau-tien.iml" />
       <module fileurl="file://$PROJECT_DIR$/DemoJava/DemoJava.iml" filepath="$PROJECT_DIR$/DemoJava/DemoJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Module2.iml" filepath="$PROJECT_DIR$/.idea/Module2.iml" />
       <module fileurl="file://$PROJECT_DIR$/system-time/system-time.iml" filepath="$PROJECT_DIR$/system-time/system-time.iml" />
       <module fileurl="file://$PROJECT_DIR$/thucHanh_Kiem-Tra-So-Nguyen-To/thucHanh_Kiem-Tra-So-Nguyen-To.iml" filepath="$PROJECT_DIR$/thucHanh_Kiem-Tra-So-Nguyen-To/thucHanh_Kiem-Tra-So-Nguyen-To.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thucHanh_Thiet-ke-menu-cho-ung-dung/thucHanh_Thiet-ke-menu-cho-ung-dung.iml" filepath="$PROJECT_DIR$/thucHanh_Thiet-ke-menu-cho-ung-dung/thucHanh_Thiet-ke-menu-cho-ung-dung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thucHanh_Ung-dung-tinh-tien-lai-cho-vay/thucHanh_Ung-dung-tinh-tien-lai-cho-vay.iml" filepath="$PROJECT_DIR$/thucHanh_Ung-dung-tinh-tien-lai-cho-vay/thucHanh_Ung-dung-tinh-tien-lai-cho-vay.iml" />
     </modules>
   </component>
 </project>
