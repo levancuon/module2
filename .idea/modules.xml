@@ -2,14 +2,26 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaiTap_Day9-month4/BaiTap_Day9-month4.iml" filepath="$PROJECT_DIR$/BaiTap_Day9-month4/BaiTap_Day9-month4.iml" />
       <module fileurl="file://$PROJECT_DIR$/BaiTap_Hien-thi-cac-loai-hinh/BaiTap_Hien-thi-cac-loai-hinh.iml" filepath="$PROJECT_DIR$/BaiTap_Hien-thi-cac-loai-hinh/BaiTap_Hien-thi-cac-loai-hinh.iml" />
       <module fileurl="file://$PROJECT_DIR$/BaiTap_Hien-thi-cac-so-nguyen-to-nho-hon-100/BaiTap_Hien-thi-cac-so-nguyen-to-nho-hon-100.iml" filepath="$PROJECT_DIR$/BaiTap_Hien-thi-cac-so-nguyen-to-nho-hon-100/BaiTap_Hien-thi-cac-so-nguyen-to-nho-hon-100.iml" />
       <module fileurl="file://$PROJECT_DIR$/BaiTap_Kiem-tra-20-so-nguyen-to-dau-tien/BaiTap_Kiem-tra-20-so-nguyen-to-dau-tien.iml" filepath="$PROJECT_DIR$/BaiTap_Kiem-tra-20-so-nguyen-to-dau-tien/BaiTap_Kiem-tra-20-so-nguyen-to-dau-tien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTap_Phuong-trinh-bac-2/BaiTap_Phuong-trinh-bac-2.iml" filepath="$PROJECT_DIR$/BaiTap_Phuong-trinh-bac-2/BaiTap_Phuong-trinh-bac-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTap_Them-phan-tu-vao-mang/BaiTap_Them-phan-tu-vao-mang.iml" filepath="$PROJECT_DIR$/BaiTap_Them-phan-tu-vao-mang/BaiTap_Them-phan-tu-vao-mang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTap_Xay-dung-lop-nghi-trong-java/BaiTap_Xay-dung-lop-nghi-trong-java.iml" filepath="$PROJECT_DIR$/BaiTap_Xay-dung-lop-nghi-trong-java/BaiTap_Xay-dung-lop-nghi-trong-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTap_Xoa-phan-tu-khoi-mang/BaiTap_Xoa-phan-tu-khoi-mang.iml" filepath="$PROJECT_DIR$/BaiTap_Xoa-phan-tu-khoi-mang/BaiTap_Xoa-phan-tu-khoi-mang.iml" />
       <module fileurl="file://$PROJECT_DIR$/DemoJava/DemoJava.iml" filepath="$PROJECT_DIR$/DemoJava/DemoJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Module2.iml" filepath="$PROJECT_DIR$/.idea/Module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practices/Practices.iml" filepath="$PROJECT_DIR$/Practices/Practices.iml" />
       <module fileurl="file://$PROJECT_DIR$/system-time/system-time.iml" filepath="$PROJECT_DIR$/system-time/system-time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thucHanh_Chuong-trinh-chuyen-doi-nhiet-do/thucHanh_Chuong-trinh-chuyen-doi-nhiet-do.iml" filepath="$PROJECT_DIR$/thucHanh_Chuong-trinh-chuyen-doi-nhiet-do/thucHanh_Chuong-trinh-chuyen-doi-nhiet-do.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thucHanh_Dao-nguoc-cac-phan-tu-cua-mang/thucHanh_Dao-nguoc-cac-phan-tu-cua-mang.iml" filepath="$PROJECT_DIR$/thucHanh_Dao-nguoc-cac-phan-tu-cua-mang/thucHanh_Dao-nguoc-cac-phan-tu-cua-mang.iml" />
       <module fileurl="file://$PROJECT_DIR$/thucHanh_Kiem-Tra-So-Nguyen-To/thucHanh_Kiem-Tra-So-Nguyen-To.iml" filepath="$PROJECT_DIR$/thucHanh_Kiem-Tra-So-Nguyen-To/thucHanh_Kiem-Tra-So-Nguyen-To.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thucHanh_LopHInhChuNhat/thucHanh_LopHInhChuNhat.iml" filepath="$PROJECT_DIR$/thucHanh_LopHInhChuNhat/thucHanh_LopHInhChuNhat.iml" />
       <module fileurl="file://$PROJECT_DIR$/thucHanh_Thiet-ke-menu-cho-ung-dung/thucHanh_Thiet-ke-menu-cho-ung-dung.iml" filepath="$PROJECT_DIR$/thucHanh_Thiet-ke-menu-cho-ung-dung/thucHanh_Thiet-ke-menu-cho-ung-dung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thucHanh_Tim-gia-tri-lon-nhat-trong-mang/thucHanh_Tim-gia-tri-lon-nhat-trong-mang.iml" filepath="$PROJECT_DIR$/thucHanh_Tim-gia-tri-lon-nhat-trong-mang/thucHanh_Tim-gia-tri-lon-nhat-trong-mang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thucHanh_Tim-gia-tri-nho-nhat-trong-mang-su-dung-phuong-thuc/thucHanh_Tim-gia-tri-nho-nhat-trong-mang-su-dung-phuong-thuc.iml" filepath="$PROJECT_DIR$/thucHanh_Tim-gia-tri-nho-nhat-trong-mang-su-dung-phuong-thuc/thucHanh_Tim-gia-tri-nho-nhat-trong-mang-su-dung-phuong-thuc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thucHanh_Tim-gia-tri-trong-mang/thucHanh_Tim-gia-tri-trong-mang.iml" filepath="$PROJECT_DIR$/thucHanh_Tim-gia-tri-trong-mang/thucHanh_Tim-gia-tri-trong-mang.iml" />
       <module fileurl="file://$PROJECT_DIR$/thucHanh_Ung-dung-tinh-tien-lai-cho-vay/thucHanh_Ung-dung-tinh-tien-lai-cho-vay.iml" filepath="$PROJECT_DIR$/thucHanh_Ung-dung-tinh-tien-lai-cho-vay/thucHanh_Ung-dung-tinh-tien-lai-cho-vay.iml" />
     </modules>
   </component>
