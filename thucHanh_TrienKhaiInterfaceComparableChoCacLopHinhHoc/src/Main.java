@@ -17,10 +17,11 @@ public class Main {
 //        Shape square = new Square(5);
 //        System.out.println(square);
 
-        ComparableCircle[] circles = new ComparableCircle[3];
+        ComparableCircle[] circles = new ComparableCircle[4];
         circles[0] = new ComparableCircle(3.6);
         circles[1] = new ComparableCircle();
         circles[2] = new ComparableCircle(3.5);
+        circles[3] = new ComparableCircle(4);
 
         System.out.println("Pre-sorted:");
         for (ComparableCircle circle : circles) {

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="519eff27-87c7-420f-8b36-e7d375d62bca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../BaiTap_TrienKhaiInterfaceResizeableChoCacLopHinhHoc/BaiTap_TrienKhaiInterfaceResizeableChoCacLopHinhHoc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTap_TrienKhaiInterfaceResizeableChoCacLopHinhHoc/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTap_TrienKhaiInterfaceResizeableChoCacLopHinhHoc/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTap_TrienKhaiInterfaceResizeableChoCacLopHinhHoc/src/Resizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTap_TrienKhaiInterfaceResizeableChoCacLopHinhHoc/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BaiTap_TrienKhaiInterfaceResizeableChoCacLopHinhHoc/src/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/thucHanh_TrienKhaiInterfaceComparableChoCacLopHinhHoc/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/thucHanh_TrienKhaiInterfaceComparableChoCacLopHinhHoc/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thucHanh_HeCacDoiTuongHinhHoc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thucHanh_TrienKhaiInterfaceComparableChoCacLopHinhHoc/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thucHanh_TrienKhaiInterfaceComparableChoCacLopHinhHoc/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2fJD5vXYBhzZVDY6IdRTxwUcR6x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Codegym/Module2/thucHanh_HeCacDoiTuongHinhHoc",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="519eff27-87c7-420f-8b36-e7d375d62bca" name="Changes" comment="" />
+      <created>1713510108192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713510108192</updated>
+      <workItem from="1713510109251" duration="122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

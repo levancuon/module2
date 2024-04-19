@@ -12,6 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/BaiTap_LopPointVaMoveablePoint/BaiTap_LopPointVaMoveablePoint.iml" filepath="$PROJECT_DIR$/BaiTap_LopPointVaMoveablePoint/BaiTap_LopPointVaMoveablePoint.iml" />
       <module fileurl="file://$PROJECT_DIR$/BaiTap_Phuong-trinh-bac-2/BaiTap_Phuong-trinh-bac-2.iml" filepath="$PROJECT_DIR$/BaiTap_Phuong-trinh-bac-2/BaiTap_Phuong-trinh-bac-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/BaiTap_Them-phan-tu-vao-mang/BaiTap_Them-phan-tu-vao-mang.iml" filepath="$PROJECT_DIR$/BaiTap_Them-phan-tu-vao-mang/BaiTap_Them-phan-tu-vao-mang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTap_TrienKhaiInterfaceColorableChoCacLopHinhHoc/BaiTap_TrienKhaiInterfaceColorableChoCacLopHinhHoc.iml" filepath="$PROJECT_DIR$/BaiTap_TrienKhaiInterfaceColorableChoCacLopHinhHoc/BaiTap_TrienKhaiInterfaceColorableChoCacLopHinhHoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTap_TrienKhaiInterfaceResizeableChoCacLopHinhHoc/BaiTap_TrienKhaiInterfaceResizeableChoCacLopHinhHoc.iml" filepath="$PROJECT_DIR$/BaiTap_TrienKhaiInterfaceResizeableChoCacLopHinhHoc/BaiTap_TrienKhaiInterfaceResizeableChoCacLopHinhHoc.iml" />
       <module fileurl="file://$PROJECT_DIR$/BaiTap_Xay-dung-lop-nghi-trong-java/BaiTap_Xay-dung-lop-nghi-trong-java.iml" filepath="$PROJECT_DIR$/BaiTap_Xay-dung-lop-nghi-trong-java/BaiTap_Xay-dung-lop-nghi-trong-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/BaiTap_XayDungLopChiGhiTrongJava/BaiTap_XayDungLopChiGhiTrongJava.iml" filepath="$PROJECT_DIR$/BaiTap_XayDungLopChiGhiTrongJava/BaiTap_XayDungLopChiGhiTrongJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/BaiTap_XayDungLopFan/BaiTap_XayDungLopFan.iml" filepath="$PROJECT_DIR$/BaiTap_XayDungLopFan/BaiTap_XayDungLopFan.iml" />
@@ -23,7 +25,6 @@
       <module fileurl="file://$PROJECT_DIR$/system-time/system-time.iml" filepath="$PROJECT_DIR$/system-time/system-time.iml" />
       <module fileurl="file://$PROJECT_DIR$/thucHanh_Chuong-trinh-chuyen-doi-nhiet-do/thucHanh_Chuong-trinh-chuyen-doi-nhiet-do.iml" filepath="$PROJECT_DIR$/thucHanh_Chuong-trinh-chuyen-doi-nhiet-do/thucHanh_Chuong-trinh-chuyen-doi-nhiet-do.iml" />
       <module fileurl="file://$PROJECT_DIR$/thucHanh_Dao-nguoc-cac-phan-tu-cua-mang/thucHanh_Dao-nguoc-cac-phan-tu-cua-mang.iml" filepath="$PROJECT_DIR$/thucHanh_Dao-nguoc-cac-phan-tu-cua-mang/thucHanh_Dao-nguoc-cac-phan-tu-cua-mang.iml" />
-      <module fileurl="file://$PROJECT_DIR$/thucHanh_HeCacDoiTuongHinhHoc/thucHanh_HeCacDoiTuongHinhHoc.iml" filepath="$PROJECT_DIR$/thucHanh_HeCacDoiTuongHinhHoc/thucHanh_HeCacDoiTuongHinhHoc.iml" />
       <module fileurl="file://$PROJECT_DIR$/thucHanh_Kiem-Tra-So-Nguyen-To/thucHanh_Kiem-Tra-So-Nguyen-To.iml" filepath="$PROJECT_DIR$/thucHanh_Kiem-Tra-So-Nguyen-To/thucHanh_Kiem-Tra-So-Nguyen-To.iml" />
       <module fileurl="file://$PROJECT_DIR$/thucHanh_LopAnimal-Va-InterfaceEdible/thucHanh_LopAnimal-Va-InterfaceEdible.iml" filepath="$PROJECT_DIR$/thucHanh_LopAnimal-Va-InterfaceEdible/thucHanh_LopAnimal-Va-InterfaceEdible.iml" />
       <module fileurl="file://$PROJECT_DIR$/thucHanh_LopHInhChuNhat/thucHanh_LopHInhChuNhat.iml" filepath="$PROJECT_DIR$/thucHanh_LopHInhChuNhat/thucHanh_LopHInhChuNhat.iml" />
