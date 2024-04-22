@@ -15,6 +15,6 @@ public class Main {
         }
         Square square = new Square(10);
         square.getArea123();
-        System.out.println(square.area);
+        System.out.println(square.getArea());
     }
 }

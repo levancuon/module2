@@ -1,6 +1,6 @@
 public class Square extends Shape implements Colorable{
 
-   public double area;
+   private double area;
 
     public Square() {
     }

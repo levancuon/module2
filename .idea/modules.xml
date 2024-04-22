@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaiTap_22-4/BaiTap_22-4.iml" filepath="$PROJECT_DIR$/BaiTap_22-4/BaiTap_22-4.iml" />
       <module fileurl="file://$PROJECT_DIR$/BaiTap_AccessModifier/BaiTap_AccessModifier.iml" filepath="$PROJECT_DIR$/BaiTap_AccessModifier/BaiTap_AccessModifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTap_CaiDatThuatToan/BaiTap_CaiDatThuatToan.iml" filepath="$PROJECT_DIR$/BaiTap_CaiDatThuatToan/BaiTap_CaiDatThuatToan.iml" />
       <module fileurl="file://$PROJECT_DIR$/BaiTap_Day9-month4/BaiTap_Day9-month4.iml" filepath="$PROJECT_DIR$/BaiTap_Day9-month4/BaiTap_Day9-month4.iml" />
       <module fileurl="file://$PROJECT_DIR$/BaiTap_Hien-thi-cac-loai-hinh/BaiTap_Hien-thi-cac-loai-hinh.iml" filepath="$PROJECT_DIR$/BaiTap_Hien-thi-cac-loai-hinh/BaiTap_Hien-thi-cac-loai-hinh.iml" />
       <module fileurl="file://$PROJECT_DIR$/BaiTap_Hien-thi-cac-so-nguyen-to-nho-hon-100/BaiTap_Hien-thi-cac-so-nguyen-to-nho-hon-100.iml" filepath="$PROJECT_DIR$/BaiTap_Hien-thi-cac-so-nguyen-to-nho-hon-100/BaiTap_Hien-thi-cac-so-nguyen-to-nho-hon-100.iml" />
@@ -11,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/BaiTap_LopPoint2dVaLopPoint3d/BaiTap_LopPoint2dVaLopPoint3d.iml" filepath="$PROJECT_DIR$/BaiTap_LopPoint2dVaLopPoint3d/BaiTap_LopPoint2dVaLopPoint3d.iml" />
       <module fileurl="file://$PROJECT_DIR$/BaiTap_LopPointVaMoveablePoint/BaiTap_LopPointVaMoveablePoint.iml" filepath="$PROJECT_DIR$/BaiTap_LopPointVaMoveablePoint/BaiTap_LopPointVaMoveablePoint.iml" />
       <module fileurl="file://$PROJECT_DIR$/BaiTap_Phuong-trinh-bac-2/BaiTap_Phuong-trinh-bac-2.iml" filepath="$PROJECT_DIR$/BaiTap_Phuong-trinh-bac-2/BaiTap_Phuong-trinh-bac-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTap_QuanLySv-SuDungArrayListLinkedList/BaiTap_QuanLySv-SuDungArrayListLinkedList.iml" filepath="$PROJECT_DIR$/BaiTap_QuanLySv-SuDungArrayListLinkedList/BaiTap_QuanLySv-SuDungArrayListLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/BaiTap_Them-phan-tu-vao-mang/BaiTap_Them-phan-tu-vao-mang.iml" filepath="$PROJECT_DIR$/BaiTap_Them-phan-tu-vao-mang/BaiTap_Them-phan-tu-vao-mang.iml" />
       <module fileurl="file://$PROJECT_DIR$/BaiTap_TrienKhaiInterfaceColorableChoCacLopHinhHoc/BaiTap_TrienKhaiInterfaceColorableChoCacLopHinhHoc.iml" filepath="$PROJECT_DIR$/BaiTap_TrienKhaiInterfaceColorableChoCacLopHinhHoc/BaiTap_TrienKhaiInterfaceColorableChoCacLopHinhHoc.iml" />
       <module fileurl="file://$PROJECT_DIR$/BaiTap_TrienKhaiInterfaceResizeableChoCacLopHinhHoc/BaiTap_TrienKhaiInterfaceResizeableChoCacLopHinhHoc.iml" filepath="$PROJECT_DIR$/BaiTap_TrienKhaiInterfaceResizeableChoCacLopHinhHoc/BaiTap_TrienKhaiInterfaceResizeableChoCacLopHinhHoc.iml" />
@@ -35,6 +38,7 @@
       <module fileurl="file://$PROJECT_DIR$/thucHanh_Tim-gia-tri-nho-nhat-trong-mang-su-dung-phuong-thuc/thucHanh_Tim-gia-tri-nho-nhat-trong-mang-su-dung-phuong-thuc.iml" filepath="$PROJECT_DIR$/thucHanh_Tim-gia-tri-nho-nhat-trong-mang-su-dung-phuong-thuc/thucHanh_Tim-gia-tri-nho-nhat-trong-mang-su-dung-phuong-thuc.iml" />
       <module fileurl="file://$PROJECT_DIR$/thucHanh_Tim-gia-tri-trong-mang/thucHanh_Tim-gia-tri-trong-mang.iml" filepath="$PROJECT_DIR$/thucHanh_Tim-gia-tri-trong-mang/thucHanh_Tim-gia-tri-trong-mang.iml" />
       <module fileurl="file://$PROJECT_DIR$/thucHanh_TrienKhaiInterfaceComparableChoCacLopHinhHoc/thucHanh_TrienKhaiInterfaceComparableChoCacLopHinhHoc.iml" filepath="$PROJECT_DIR$/thucHanh_TrienKhaiInterfaceComparableChoCacLopHinhHoc/thucHanh_TrienKhaiInterfaceComparableChoCacLopHinhHoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thucHanh_TrienKhaiLopListDonGian/thucHanh_TrienKhaiLopListDonGian.iml" filepath="$PROJECT_DIR$/thucHanh_TrienKhaiLopListDonGian/thucHanh_TrienKhaiLopListDonGian.iml" />
       <module fileurl="file://$PROJECT_DIR$/thucHanh_Ung-dung-tinh-tien-lai-cho-vay/thucHanh_Ung-dung-tinh-tien-lai-cho-vay.iml" filepath="$PROJECT_DIR$/thucHanh_Ung-dung-tinh-tien-lai-cho-vay/thucHanh_Ung-dung-tinh-tien-lai-cho-vay.iml" />
     </modules>
   </component>
