@@ -41,14 +41,14 @@ public class smallestValueInArray {
 
      */
     public static void main(String[] args) {
-        int[] arr = {1,2,3,4};
-        public static void minNum(int[] arr, int min){
-            min = arr[0];
-            int item = 0;
-            for (int item: arr){
-                item += 1
-            }
-        }
+//        int[] arr = {1,2,3,4};
+//        public static void minNum(int[] arr, int min){
+//            min = arr[0];
+//            int item = 0;
+//            for (int item: arr){
+//                item += 1
+//            }
+//        }
 
     }
 
